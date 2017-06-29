@@ -1,0 +1,10 @@
+{
+  "name": "byteking-js",
+  "version": "0.1.1",
+  "description": "Javascript client for byteking",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/startbase/byteking-js"
+  }
+}
